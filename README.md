@@ -9,4 +9,7 @@ And return cleansed to the temple.<br />
 Guard your lips from offence<br />
 To those who ask for oracles.<br />
 Let the God's answer come<br />
-Pure from all private fault. <br /><br />
+Pure from all private fault. <br /><br /><br />
+
+
+<a href="https://youtu.be/tYGMfd3_D1o">Unvieling the darker side of AI</a>
