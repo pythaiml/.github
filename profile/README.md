@@ -8,7 +8,7 @@ agents<br />
 https://github.com/TransformerOptimus/SuperAGI/tree/main/superagi/agent<br />
 agents interface<br />
 https://github.com/TransformerOptimus/SuperAGI/tree/main/gui/pages/Content/Agents<br />
-PROMTS<br />
+PROMPTS<br />
 https://github.com/TransformerOptimus/SuperAGI/blob/main/superagi/agent/prompts/superagi.txt<br />
 
 https://github.com/ggerganov/llama2.c<br />
