@@ -1,4 +1,5 @@
-# place to store links for now
+lablab autonmous hackathon has begun<br />
+# place to store links for now<br />
 https://linuxiac.com/how-to-install-vs-code-on-linux-mint/<br />
 pip uninstall llama-cpp-python<br />
 CMAKE_ARGS="-DLLAMA_CUBLAS=on" FORCE_CMAKE=1 pip install llama-cpp-python<br />
@@ -7,4 +8,6 @@ agents<br />
 https://github.com/TransformerOptimus/SuperAGI/tree/main/superagi/agent<br />
 agents interface<br />
 https://github.com/TransformerOptimus/SuperAGI/tree/main/gui/pages/Content/Agents<br />
+
+https://github.com/ggerganov/llama2.c<br />
 
