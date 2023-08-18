@@ -10,6 +10,6 @@ agents interface<br />
 https://github.com/TransformerOptimus/SuperAGI/tree/main/gui/pages/Content/Agents<br />
 PROMPTS<br />
 https://github.com/TransformerOptimus/SuperAGI/blob/main/superagi/agent/prompts/superagi.txt<br />
-
+llama learning in c<br />
 https://github.com/ggerganov/llama2.c<br />
 
