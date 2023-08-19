@@ -13,3 +13,10 @@ https://github.com/TransformerOptimus/SuperAGI/blob/main/superagi/agent/prompts/
 llama learning in c<br />
 https://github.com/ggerganov/llama2.c<br />
 
+-----------
+<br />
+possibities .....<br />
+pip install agentspeak<br />
+git clone https://github.com/niklasf/python-agentspeak<br />
+python3 -m agentspeak examples/refactorings/simse.asl<br />
+
