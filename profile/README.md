@@ -22,3 +22,6 @@ pip install agentspeak<br />
 git clone https://github.com/niklasf/python-agentspeak<br />
 python3 -m agentspeak examples/refactorings/simse.asl<br />
 
+Create github API<br/>
+https://github.com/settings/apps
+
