@@ -1,5 +1,4 @@
-lablab autonmous hackathon has begun<br />
-# place to store links for now<br />
+# AUTOMINDx technology stack
 https://linuxiac.com/how-to-install-vs-code-on-linux-mint/<br />
 pip uninstall llama-cpp-python<br />
 CMAKE_ARGS="-DLLAMA_CUBLAS=on" FORCE_CMAKE=1 pip install llama-cpp-python<br />
@@ -17,7 +16,7 @@ https://github.com/ggerganov/llama2.c<br />
 
 -----------
 <br />
-possibities .....<br />
+# Agent Speak speak-agent 
 pip install agentspeak<br />
 git clone https://github.com/niklasf/python-agentspeak<br />
 python3 -m agentspeak examples/refactorings/simse.asl<br />
