@@ -1,3 +1,13 @@
+PYTHAIML Python Augmented Intelligence Machine Learning<br />
+<a href="https://pythai.net">pythAI</a><br />
+Python Augmented Integlligence<br />
+currently links to NFT documentation of the MASTERMIND, codephreak, hacker, DAONOW, I.C.E. and Justice Equitas GPT4 agents<br />
+This was not the plan, this is just my menu of the moment. The plan is to lock you out and make you pay to play ;-)<br />
+currently, you can play .. nothing to see there really, just a bunch of GPT4 agents that you cannot find anywhere else, that I need to build... and build I am doing.<br />
+Am I hard to get a hold of? Absolutely. Try mmrai@python.net<br />
+That will work for a while and I might check it once a week.<br />
+
+the following links were slammed during a hackathon, still not quite sure where to archive these links<br />
 # AUTOMINDx technology stack
 https://linuxiac.com/how-to-install-vs-code-on-linux-mint/<br />
 pip uninstall llama-cpp-python<br />
