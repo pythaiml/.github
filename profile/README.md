@@ -8,6 +8,8 @@ Am I hard to get a hold of? Absolutely. Try mmrai@python.net<br />
 That will work for a while and I might check it once a week.<br />
 
 the following links were slammed during a hackathon, still not quite sure where to archive these links<br />
+A deal is a deal though, and I said I would provide agency to the terminal<br />
+ToolKitBuilder .deb package installer is not quite complete... Though SimpleCoder can handle that on the fly... Natural Language Programming<br />
 # AUTOMINDx technology stack
 https://linuxiac.com/how-to-install-vs-code-on-linux-mint/<br />
 pip uninstall llama-cpp-python<br />
