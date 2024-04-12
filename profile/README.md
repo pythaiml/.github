@@ -29,8 +29,7 @@ https://github.com/ggerganov/llama2.c<br />
 -----------
 <br />
 
-The main webpage still makes no sense at all, will let you know on that. For now, enjoy the github links. I lost track of how many organizations I have. Code in the code in the code. Working on RAGE this week <a href="https://github.com/gaterage">retrieval augmented generative engine</a> to complete the <a href="https://github.com/mastermindml">MASTERMIND</a> controller. Follow the code. The repos are a maze of interconnected links. Knowledge is power.
-# Agent Speak speak-agent 
+The main webpage still makes no sense at all, will let you know on that. For now, enjoy the github links. I lost track of how many organizations I have. Code in the code in the code. Working on RAGE this week <a href="https://github.com/gaterage">retrieval augmented generative engine</a> to complete the <a href="https://github.com/mastermindml">MASTERMIND</a> controller. Follow the code. The repos are a maze of interconnected links. Knowledge is power. Ideally, RAGE will create a <a href="https://github.com/Professor-Codephreak">codephreak</a> that will learn from all the repos. There is only one project.
 pip install agentspeak<br />
 git clone https://github.com/niklasf/python-agentspeak<br />
 python3 -m agentspeak examples/refactorings/simse.asl<br />
