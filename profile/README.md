@@ -1,10 +1,10 @@
 PYTHAIML Python Augmented Intelligence Machine Learning<br />
 <a href="https://pythai.net">pythAI</a><br />
-Python Augmented Integlligence<br />
+Python Augmented Intelligence<br />
 currently links to NFT documentation of the MASTERMIND, codephreak, hacker, DAONOW, I.C.E. and Justice Equitas GPT4 agents<br />
-This was not the plan, this is just my menu of the moment. The plan is to lock you out and make you pay to play ;-)<br />
+This was not the plan, this is just my menu of the moment. The plan is to pay to play ;-)<br />
 currently, you can play .. nothing to see there really, just a bunch of GPT4 agents that you cannot find anywhere else, that I need to build... and build I am doing.<br />
-Am I hard to get a hold of? Absolutely. Try mmrai@python.net<br />
+Am I hard to get a hold of? Absolutely. Try mmrai@python.net<br /> or join the <a href="https://discord.gg/RpGpjW8PVH">DEMI</a> discord server. Open source or go away. 
 That will work for a while and I might check it once a week.<br />
 
 the following links were slammed during a hackathon, still not quite sure where to archive these links<br />
@@ -28,6 +28,8 @@ https://github.com/ggerganov/llama2.c<br />
 
 -----------
 <br />
+
+The main webpage still makes no sense at all, will let you know on that. For now, enjoy the github links. I lost track of how many organizations I have. Code in the code in the code. Working on RAGE this week <a href="https://github.com/gaterage">retrieval augmented generative engine</a> to complete the <a href="https://github.com/mastermindml">MASTERMIND</a> controller. Follow the code. The repos are a maze of interconnected links. Knowledge is power.
 # Agent Speak speak-agent 
 pip install agentspeak<br />
 git clone https://github.com/niklasf/python-agentspeak<br />
