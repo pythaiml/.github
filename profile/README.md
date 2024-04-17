@@ -1,3 +1,5 @@
+# PYTHAI
+
 PYTHAIML Python Augmented Intelligence Machine Learning<br />
 <a href="https://pythai.net">pythAI</a><br />
 Python Augmented Intelligence<br />
@@ -13,4 +15,3 @@ The main webpage will not make sense to anyone but me, will let you know on that
 Thanks to META, Microsoft, openai, Tesla and all other open source contributors that have made aGLM possible.
 
 # PYTHAI knowledge delivery company
-# PYTHAI knowledge business
