@@ -7,4 +7,4 @@ funAGI creates RAGE as completion of aGLM from MASTERMIND with openmind using ez
 Thanks to META, Microsoft, openai, Tesla, google, anthropic, X and all other open source contributors that have made the dream of aGLM possible<br />
 
 # PYTHAI Knowledge as a Service
-knowledge delivery
+<a href="https://gpt.pythai.net">knowledge delivery</a> public GPT4 agents
