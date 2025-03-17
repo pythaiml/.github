@@ -1,5 +1,5 @@
 # <a href="https://gpt.pythai.net">PYTHAI</a><br />
-<a href="https://github.com/pythaiml/>PYTHAIML</a> Python Augmented Intelligence Machine Learning<br /><br />
+<a href="https://github.com/pythaiml/">PYTHAIML</a> Python Augmented Intelligence Machine Learning<br /><br />
 
 Python Augmented Intelligence<br /><br />
 funAGI creates RAGE as completion of aGLM from MASTERMIND with openmind using ezAGI for the UIUX. A General Learning Model is emerging with rational prowess. PYTHAI is the delivery agent of the knowledge economy.<br />
