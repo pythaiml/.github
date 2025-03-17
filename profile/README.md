@@ -9,4 +9,4 @@ Thanks to META, Microsoft, openai, Tesla, google, anthropic, X and all other ope
 # PYTHAI Knowledge as a Service
 <a href="https://gpt.pythai.net">knowledge delivery</a> public GPT4 agents<br />
 <a href="https://rage.pythai.net">RAGE</a> Retrieval Augmented Generative Engine<br /><br /><br />
-<p align="right"<a href="https://huggingface.co/PYTHAI">huggingface</a></p>
+<p align="right"><a href="https://huggingface.co/PYTHAI">huggingface</a></p>
