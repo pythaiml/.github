@@ -22,6 +22,11 @@ Pythia has been offering advice and predicting the future using Tarot and Horros
 Currently am running 33 GPT4 agents and 2 LLM's so the "team" has become the robots. Moving forward into monetization and the capitalization of all things. Follow <a href="https://twitter.com/AIOSML">AIOSML</a> for sporadic updates. Pythai created Pythia<br />
 There will be subdomains. So tired of web2 though.... redirects anyway.<br /><br />
 
-PYTHAI knowledge delivery https://pythai.net
+PYTHAI knowledge delivery 
+
+![PYTHAI](./docs/pythai.png)
+
+
+https://agenticplace.pythai.net
 
 
