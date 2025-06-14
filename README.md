@@ -20,7 +20,7 @@ Pythia has been offering advice and predicting the future using Tarot and Horros
 
 Follow <a href="https://twitter.com/AIOSML">AIOSML</a> for sporadic updates. Pythai created Pythia<br />
 <br />
-PYTHAI knowledge delivery<br /><br />
+PYTHAI knowledge delivery<br />
 
 <a href="https://agenticplace.pythai.net">AgenticPlace</a>
 
