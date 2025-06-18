@@ -4,7 +4,7 @@
 Python Augmentic Intelligence<br /><br />
 PYTHAI KNOWLEDGE DELIVERY<br />
 <br /><br />
-![PYTHAI](./docs/pythai.png)
+![PYTHAI](pythai.jpeg)
 
 Thanks to META, Microsoft, openai, Tesla, google, anthropic, X and all other open source contributors that have made possible the <a href="https://github.com/AgenticPlace">dream</a><br />
 
