@@ -2,7 +2,7 @@
 <a href="https://github.com/pythaiml/">PYTHAIML</a> Python Augmented Intelligence Machine Learning<br /><br />
 
 Python Augmentic Intelligence<br /><br />
-<a href="https://ai.pythai.net">PYTHAI KNOWLEDGE DELIVERY</a><br />
+<a href="https://ai.pythai.net">PYTHAI</a> KNOWLEDGE DELIVERY<br />
 <br /><br />
 
 Thanks to META, Microsoft, openai, Tesla, google, anthropic, X and all other open source contributors that have made possible the <a href="https://github.com/AgenticPlace">vision</a> of AgenticPlace<br />
