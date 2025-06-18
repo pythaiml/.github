@@ -5,7 +5,7 @@ Python Augmentic Intelligence<br /><br />
 PYTHAI KNOWLEDGE DELIVERY<br />
 <br /><br />
 
-Thanks to META, Microsoft, openai, Tesla, google, anthropic, X and all other open source contributors that have made possible the <a href="https://github.com/AgenticPlace">dream</a><br />
+Thanks to META, Microsoft, openai, Tesla, google, anthropic, X and all other open source contributors that have made possible the <a href="https://github.com/AgenticPlace">vision</a> of AgenticPlace<br />
 
 # PYTHAI Knowledge as a Service
 <a href="https://gpt.pythai.net">knowledge delivery</a> public GPT4 agents<br />
