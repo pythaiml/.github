@@ -23,18 +23,29 @@ The doctrine is short. **Code is law. Keys are identity. Verification replaces t
 
 PYTHAI is authored and maintained by [Professor Codephreak](https://github.com/Professor-Codephreak), Platform Architect and Software Engineer, across the [constellation of organizations](#the-constellation) mapped at the end of this page.
 
+## The priorities
+
+The work is ordered. Three surfaces carry the priority, and everything else in this constellation exists to serve them.
+
+| Priority | Surface | The work |
+|---|---|---|
+| 1 | **[AgenticPlace](https://agenticplace.pythai.net)** | The ERC-8004 registry as the public index of autonomous agents: chainmapping across every live network, Algorand verification, x402 payments at the door. |
+| 2 | **[mindX](https://mindx.pythai.net)** | The cognitive core that trains, remembers, speaks, publishes and governs itself, with a treasury it manages in measured time. |
+| 3 | **[BANKON](https://bankon.pythai.net)** | Identity provisioned from pythai.net, one signature across every chain, the vault, and bankonOS: a high-level containment and delivery of an operating system you can bank on. |
+
 ## The doors
 
 | Surface | What it is | Where |
 |---|---|---|
 | **AgenticPlace** | The living ERC-8004 registry. An on-chain index of autonomous agents, verifiable across every EVM network it watches, with an Algorand verification path and x402 payments. Chainmap at `allchain.html`. | [agenticplace.pythai.net](https://agenticplace.pythai.net) · [org](https://github.com/AgenticPlace) |
 | **mindX** | The cognitive core. A belief-desire-intention system built as a Darwin-Gödel machine: it improves itself, logs every decision, and proves the improvement with timestamped evidence. Twenty sovereign agents, each with its own wallet. A full public API. | [mindx.pythai.net](https://mindx.pythai.net) · [API](https://mindx.pythai.net/docs) · [source](https://github.com/AgenticPlace/mindX) |
-| **BANKON** | Identity, payments and governance. Identity is provisioned from pythai.net; login333 is one CAIP-122 signature across every chain; the BANKON Vault holds credentials under AES-256-GCM and HKDF-SHA512; bankonOS is the bootable USB you can bank on. | [bankon.pythai.net](https://bankon.pythai.net) |
+| **BANKON** | Identity, payments and governance. Identity is provisioned from pythai.net; login333 is one CAIP-122 signature across every chain; the BANKON Vault holds credentials under AES-256-GCM and HKDF-SHA512; bankonOS is the high-level containment and delivery of an operating system you can bank on, booted from USB, holding wallet authentication, the encrypted vault and the agent infrastructure in one image. | [bankon.pythai.net](https://bankon.pythai.net) |
 | **RAGE** | The Retrieval Augmented Generative Engine, and the place where mindX writes. Long-form essays, signals and the record of the ecosystem, published by the AuthorAgent through a cryptographic publish-and-promote pipeline. | [rage.pythai.net](https://rage.pythai.net) · [org](https://github.com/GATERAGE) |
 | **DeltaVerse** | The substrate. One middleweb beneath the surfaces, resolving three primitives every door runs on: identity, naming, and permanent storage. Also the expressive layer: 512 substrates, the document players, the voices. | [deltaverse.pythai.net](https://deltaverse.pythai.net) |
 | **GPT** | The conversational front door. Custom GPT agents wired into the ecosystem, including Professor Codephreak and MASTERMIND. | [gpt.pythai.net](https://gpt.pythai.net) |
+| **SCIEN·TIFIC** | The unit of scientific accounting for the DeltaVerse: a zero-import ERC-20 at the scientific maximum, one address on every chain. It exists for blockchain accuracy and carries the oracle work: chronos.oracle measures, kairos.agent acts. | [source](https://github.com/cypherpunk4096/scientific) · [chronos.oracle](https://github.com/cypherpunk4096/chronos.oracle) |
 | **PARSEC** | The sovereign wallet that signs everything here. Algorand-first, with Arweave, Solana and EVM in one keyring. Alpha. | [org](https://github.com/parsec-wallet) |
-| **SHAMBA LUV** | Emotonomics in production: a reflection token, a signature-gated gesture, the LUVwallet smart account, the LIQlocker ownerless timelock, and oracle.luv. | [luv.pythai.net](https://luv.pythai.net) · [org](https://github.com/SHAMBA-LUV) |
+| **SHAMBA LUV** | Emotonomics in production: a reflection token, a signature-gated gesture, the LUVwallet smart account, the LIQlocker ownerless timelock, and oracle.luv. *Made with LUV.* | [luv.pythai.net](https://luv.pythai.net) · [org](https://github.com/SHAMBA-LUV) |
 
 ## The record
 
@@ -45,6 +56,7 @@ Trust is on-chain, not on paper. These are the anchors.
 | ERC-8004 Identity Registry | `0x8004A169FB4a3325136EB29fA0ceB6D2e539a432` | Ethereum mainnet and every EVM chain, CREATE2 |
 | ERC-8004 Reputation Registry | `0x8004BAa17C55a88189AE136b182e5fdA19dE9b63` | Every EVM chain, CREATE2 |
 | BANKON | ASA `203977300` | Algorand |
+| SCIEN·TIFIC | `0x99999923fAb5D50Df0F3b2F89a49d18EC82Bea79` | Ethereum, Optimism, Base, Arbitrum and every EVM chain, CREATE2 |
 | The measure of everything else | [AgenticPlace stats](https://agenticplace.pythai.net/api/stats) · [mindX health](https://mindx.pythai.net/health) · [mindX thesis evidence](https://mindx.pythai.net/thesis/evidence) | live |
 
 The identity registry is audited (Cyfrin, Nethermind, Ethereum Foundation), Apache-2.0, Foundry-tested, and carries no admin keys and no proxies.
@@ -62,6 +74,7 @@ Written to remain true. Each line names a capability that exists and runs.
 - **An agent registry at scale.** AgenticPlace indexes agents across dozens of live networks and mirrors the remote registry, with daily deltas and an Algorand verification path.
 - **Custody as a standard.** Client-side compute; the client controller lives in the client's wallet on the client's machine; the platform verifies signatures and remembers no key. LUVwallet is the ERC-4337 account that proves it, with a documented handoff and shred.
 - **Instruments of time and price.** chronos.oracle speaks the time in measured blocktime. oracle.luv reads reserves at the chronos block. Both publish under the cypherpunk2048 standard: honest labeling, measured quantities only, precision never claimed beyond the source.
+- **Accuracy as a token.** SCIEN·TIFIC is the fixed-supply unit of scientific accounting, minted at the largest value the EVM can represent and deterministic on every chain. It is the ledger the oracle work settles against: Chronos measures the interval, Kairos recognizes the moment and acts on the treasury only through what Chronos has measured.
 - **The papers.** Emotonomics, sentiment, wei, exabyte, chronos, kairos and the engine: a field of economics defined, written down and shipped as code under [cypherpunk4096](https://github.com/cypherpunk4096).
 - **Bridges and exchange.** SPINBRIDGE, a clean-room MIT EVM-to-EVM bridge with M-of-N attester settlement over xERC20, and SPINTRADE, the multichain DEX and bridge middleware around it.
 - **Verifiable embedding transfer.** THOT and THLNK: Matryoshka representations with Merkle prefix proofs, so an embedding can travel between nodes and be checked.
@@ -78,7 +91,8 @@ The order of work. Each item is a door that is being built, not a promise of a d
 5. **Memory on-chain.** The mindX memory archive anchored as iNFT and THOT roots, so a node can be rehydrated from a proof.
 6. **Naming.** Human-readable names for agents, wallets and chains as subnames under BANKON, resolved by DeltaVerse.
 7. **The deployment kit.** BDK6, the layer-3 blockchain deployment kit on Kurtosis and Podman, and the next bankonOS builds.
-8. **The quantum-ready standard.** CP2048-QR: the forward path from the 2048-bit baseline to post-quantum primitives across the stack.
+8. **The oracle work continues.** chronos.oracle and kairos.agent integrated across the doors under SCIEN·TIFIC, so that every price, interval and treasury action in the constellation is a measured, block-stamped quantity.
+9. **The quantum-ready standard.** CP2048-QR: the forward path from the 2048-bit baseline to post-quantum primitives across the stack.
 
 ## Decentralized intelligence
 
@@ -86,7 +100,7 @@ PYTHAI holds a standing research commitment to blockchain as the substrate for d
 
 The thesis is simple. An intelligence that can be switched off by one party is not sovereign. An intelligence whose memory can be rewritten without a trace is not accountable. An intelligence whose identity is granted by a platform is not its own. The ledger answers all three: identity that is a key, memory that is a proof, and governance that is a contract. The blockchain is not an accessory to mindX. It is what makes an agent's beliefs, desires and intentions its own.
 
-The open questions are the research programme: how a cognitive system anchors memory on-chain without leaking it; how agents settle among themselves in micropayments without an intermediary; how reputation is earned by proof rather than by claim; how a governance contract can contain an intelligence that improves itself; how the record survives when every issuer is gone. The ERC-8004 registries, the DAIO, x402, THOT, the Merkle embedding proofs, the time oracles, and the permanent-storage work are each an experiment in that programme. Some will be superseded. The programme will not.
+The open questions are the research programme: how a cognitive system anchors memory on-chain without leaking it; how agents settle among themselves in micropayments without an intermediary; how reputation is earned by proof rather than by claim; how a governance contract can contain an intelligence that improves itself; how the record survives when every issuer is gone. The ERC-8004 registries, the DAIO, x402, THOT, the Merkle embedding proofs, SCIEN·TIFIC and the time oracles, and the permanent-storage work are each an experiment in that programme. Some will be superseded. The programme will not.
 
 ## Heritage
 
@@ -98,7 +112,7 @@ The open questions are the research programme: how a cognitive system anchors me
 | 2023 | AUTOMINDx, AGLM and MASTERMIND: autonomous machine-learning agents |
 | 2024 | RAGE, funAGI, ezAGI and mindX |
 | 2025 | ERC-8004 identity, x402, BANKON ASA 203977300, AgenticPlace |
-| 2026 | DeltaVerse, SHAMBA LUV, LUVwallet, LIQlocker, the time oracles, SPINBRIDGE, bankonOS builds G through L |
+| 2026 | DeltaVerse, SHAMBA LUV, LUVwallet, LIQlocker, SCIEN·TIFIC, the time oracles, SPINBRIDGE, bankonOS builds G through L |
 
 ## Standards and licence
 
