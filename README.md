@@ -25,3 +25,8 @@ PYTHAI knowledge delivery<br />
 <a href="https://agenticplace.pythai.net">AgenticPlace</a>
 
 
+
+
+---
+
+The organization profile, the map of the doors and the constellation of 108 PYTHAI organizations lives in <a href="profile/README.md">profile/README.md</a>.<br />
