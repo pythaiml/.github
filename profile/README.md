@@ -1,19 +1,12 @@
-<p align="center"><img src="PYTHAI.jpeg" alt="PYTHAI" width="160" /></p>
+![PYTHAI](PYTHAI.jpeg)
 
-<h1 align="center">PYTHAI</h1>
+# PYTHAI
 
-<p align="center">
-  <strong>Python Augmented Intelligence Machine Learning</strong><br />
-  <em>Sovereign intelligence for the open chain.</em><br /><br />
-  <a href="https://pythai.net">pythai.net</a> ·
-  <a href="https://agenticplace.pythai.net">AgenticPlace</a> ·
-  <a href="https://mindx.pythai.net">mindX</a> ·
-  <a href="https://bankon.pythai.net">BANKON</a> ·
-  <a href="https://rage.pythai.net">RAGE</a> ·
-  <a href="https://deltaverse.pythai.net">DeltaVerse</a> ·
-  <a href="https://gpt.pythai.net">GPT</a> ·
-  <a href="https://luv.pythai.net">LUV</a>
-</p>
+Python Augmented Intelligence Machine Learning. Sovereign intelligence for the open chain.
+
+[pythai.net](https://pythai.net) · [AgenticPlace](https://agenticplace.pythai.net) · [mindX](https://mindx.pythai.net) · [BANKON](https://bankon.pythai.net) · [RAGE](https://rage.pythai.net) · [DeltaVerse](https://deltaverse.pythai.net) · [GPT](https://gpt.pythai.net) · [LUV](https://luv.pythai.net)
+
+▶ [Listen to this page](https://deltaverse.pythai.net/playdocs?url=https://raw.githubusercontent.com/pythaiml/.github/main/profile/README.md) — read aloud by the DeltaVerse cast in playdocs, in your browser, with nothing leaving your machine.
 
 ---
 
